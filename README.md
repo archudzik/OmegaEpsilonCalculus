@@ -24,7 +24,7 @@ cd OmegaEpsilonCalculus
 Run the demonstration:
 
 ```
-python model.py
+python calculus.py
 ```
 
 ## Output
